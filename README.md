@@ -26,11 +26,8 @@ animations for visualizing operations in CNNs
 ## Pooling
 ![pooling](assets/Pooling.gif)
 
-## 1x1 Convolution
-![onebyone](assets/OnebyOneConv.gif)
-
-## Global Pooling
-![globalpool](assets/global_pooling.gif)
+## MNIST Convolution
+![mnist_conv](assets/MnistConvNet.gif)
 
 ## RGB Convolution
 ![rgb_conv](assets/RGBConv.gif)
@@ -41,9 +38,12 @@ animations for visualizing operations in CNNs
 ## Volume to Volume
 ![rgb2vol](assets/RGB_vol2vol_2.gif)
 
-## MNIST Convolution
-![mnist_conv](assets/MnistConvNet.gif)
+## 1x1 Convolution
+![onebyone](assets/OnebyOneConv.gif)
+
+## Global Pooling
+![globalpool](assets/global_pooling.gif)
 
 ## Transpose Convolution
-![transpose_conv](assets/deconv2D.gif)
-![transpose-2](assets/deconv2D_frac.gif)
+![transpose_conv](assets/deConv2D.gif)
+![transpose-2](assets/deConv2D_frac.gif)
