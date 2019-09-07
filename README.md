@@ -3,4 +3,4 @@ animations for visualizing operations in CNNs
 
 # 1D Convolution
 
-![conv1d](assets/conv1D.gif)
+![conv1d](assets/Conv1D.gif)
