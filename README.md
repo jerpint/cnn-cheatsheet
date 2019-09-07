@@ -1,5 +1,5 @@
-# Cnn Cheatsheet
-animations for visualizing operations in CNNs
+# CNN Cheatsheet
+Animations for visualizing operations in CNNs. All animations were done using the 3blue1brown's manim library. Check out the [code](https://github.com/jerpint/manim) to reproduce the images.
 
 # 1D Convolution
 
@@ -28,6 +28,9 @@ animations for visualizing operations in CNNs
 
 ## MNIST Convolution
 ![mnist_conv](assets/MnistConvNet.gif)
+
+## Depth
+![depth](assets/Conv2D_depth.gif)
 
 ## RGB Convolution
 ![rgb_conv](assets/RGBConv.gif)
