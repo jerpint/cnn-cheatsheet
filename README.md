@@ -17,6 +17,9 @@ Animations for visualizing operations in CNNs. All animations were done using th
 ## Same Convolution
 ![same](assets/Conv2D_zeropad.gif)
 
+## Full Convolution
+![full](assets/Conv2D_full_padding.gif)
+
 ## Strided Convolution
 ![strided](assets/Conv2D_strided.gif)
 
