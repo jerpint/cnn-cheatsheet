@@ -29,6 +29,9 @@ Animations for visualizing operations in CNNs. All animations were done using th
 ## Pooling
 ![pooling](assets/Pooling.gif)
 
+## Dilated Convolution
+![dilated](assets/Conv2D_dilated.gif)
+
 ## MNIST Convolution
 ![mnist_conv](assets/MnistConvNet.gif)
 
